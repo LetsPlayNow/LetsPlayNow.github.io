@@ -2,8 +2,6 @@
 layout: resume
 ---
 
-
-
 <!-- todo при составлении используй графы требования и плюсы с этих страниц -->
 <!-- советы https://habrahabr.ru/post/184372/-->
 <!-- советы https://habrahabr.ru/post/285608/-->
@@ -12,47 +10,47 @@ layout: resume
 [Разработчик-исследователь компьютерного зрения](https://yandex.ru/jobs/vacancies/dev/dev_computer_vision/)
 
 # Алексей Титов
-
+Computer Science, Math, Robotics & Game Development
 
 ## Контактная информация
-
+Email: staffofmousecorp@gmail.com
+Tel: +7 961 685 82-18
 
 ## Навыки
 ### Machine Learning
 Прошел 2 курса специализации Machine Learning and Data Analisys на Coursera:
-* https://www.coursera.org/account/accomplishments/certificate/UKUZDXDD3BGK
-* https://www.coursera.org/account/accomplishments/certificate/CXM3FL3SGHAK
-
+* [Математика и Python для анализа данных](https://www.coursera.org/account/accomplishments/certificate/UKUZDXDD3BGK)
+* [Обучение на размеченных данных](https://www.coursera.org/account/accomplishments/certificate/CXM3FL3SGHAK)
 Знаком с базовыми моделями, методами и особенностями обучения с учителем.
-Для этого использую Python и skikit-learn. 
+Работаю с Python и scikit-learn.
 
 ### Computer Vision
-Работал с методом Stereo Matching'a. Пришел к тому, что это довольно требовательный к камерам и окружению подход.
+Работал с методом [Stereo Matching'a](http://skillcounter.blogspot.ru/2015/08/point-cloud-from-pair-of-images-with.html). 
+Пришел к тому, что это довольно требовательный к камерам и окружению подход.
 В данный момент работаю с RGB-D камерой над задачей автономной навигации робота с применением SLAM алгоритма.
 
 ### Math & Algorithms
 На хорошем уровне знаком с базовыми разделами высшей математики.
-В данный момент улушаю знания по списку подготовки от ШАД'а.
+В данный момент улушаю знания по списку подготовки от [ШАД'а](https://cache-mskm906.cdn.yandex.net/download.cdn.yandex.net/shad/post_program_school.pdf).
 В свободное время решаю олимпиадные задачки.
-Также по мере сил участвую в контестах на CodeForces.
+Также по мере сил участвую в контестах на [CodeForces](http://codeforces.com/profile/ResQ).
 
 ### Web
 Хорошо знаком с Ruby 2.2.4 и Rails 4.2. 
-Написал на Rails один очень крупный и интересный экспериментальный проект (см проекты).
+Написал на Rails один очень крупный и интересный экспериментальный проект (см раздел проекты).
 Также на базовом уровне знаком с HTML5, CSS3 и JavaScript 5.
 
 ### System Programming
 Работаю на двух ОС:
-#### Windows 10
+**Windows 10**
 C лабораторных немного знаком с Win32 API.
 Писал приложения типа клиент - сервер.
 Писал простые многопоточные (OpenMP) и многопроцессные (MPI) приложения.
 
-#### Ubuntu 14.04
+**Ubuntu 14.04**
 На базовом уровне знаком с bash.
 В ладах с терминалом.
-В свое время довелось написать свою реализацию сокетов:
-https://github.com/LetsPlayNow/TinySockets
+В свое время довелось написать [свою реализацию сокетов](https://github.com/LetsPlayNow/TinySockets):
 
 ### Mobile apps programming
 Небольшой опыт создания простых приложений под Android (на Java) и Windows Phone (C#).
@@ -62,26 +60,20 @@ https://github.com/LetsPlayNow/TinySockets
 + C++
   + OpenCV
   Получение облаков точек с двух / одной камеры при помощи триангуляции и оптического потока.
-
   + Point Cloud Library
   Обработка облаков точек. Восстановление поверхностей по облаку точек.
-
   + ROS
   Разработка системы автономной навигации для антропоморфного робота.
   Планирование глобальной траектории движения робота по данным с RGB-D датчика.
-
   + OpenMP, MPI
   Знаком с базовыми приемами распараллеливания при помощи этих фреймворков.
-
   + QT, STL
   Использую по мере необходимости для GUI приложений на C++.
   Второе использую для спортивного программирования.
-
 + Python
   + Numpy, matplotlib, skikit-learn, pandas
-  Работал с ними во время прохождения первых 2 курсов специализации 
+  Работал с ними во время прохождения первых 2 курсов специализации
   Machine Leaning And Data Analysis на Coursera
-
   + chatterbot, gTTS, SpeechRecognition
   Использовал для написания лингвистического ИИ для робота (см проекты)
 
@@ -101,28 +93,34 @@ https://github.com/LetsPlayNow/TinySockets
   + Использовал для программирования STM32 и AVR контроллеров на лабораторных работах.
   Увлекаюсь схемотехникой с Arduino.
   
-+ Altera Quartus 
++ Altera Quartus 9.1
   + Использовал на лабораторных для создания логических схем (от простейших до сложных (свой процессор))
   Немного знаком с VHDL.
 
 ## Некоторые из моих проектов
-С полным списком можно ознакомиться здесь: https://github.com/LetsPlayNow?tab=repositories
+С полным списком можно ознакомиться [по ссылке](https://github.com/LetsPlayNow?tab=repositories).
 ### AI - Project
+![Game session](https://goo.gl/qDsgo2)
+
 Статус: частично завершен
 Технологии: Ruby, Rails, HTML, CSS, JS
 Описание: Это веб приложение, которое позволяет посоревноваться в написании ИИ для подконтрольного юнита, 
 который будет сражаться с юнитом под управлением ИИ соперника.
-![Game session](https://goo.gl/qDsgo2)
+
+
+
 Роль в проекте: Данный проект полностью придуман и создан один человеком - мной.
 В начале его реализации я ничего не знал о вебе. Хоть веб меня и очень интересовал.
 В процессе рализации я хорошо разобрался с Rails, HTML, CSS и JS.
 Проект занял много времени при всем моем упорстве.
 И в итоге, мне удалось довести его до приличного вида. 
-Сыграть можно по ссылке: https://ai-project-new.herokuapp.com/
-Исходный код проекта открыт и доступен по ссылке: 
-https://github.com/LetsPlayNow/AI-Project
+Сыграть можно по ссылке: [https://ai-project-new.herokuapp.com/](https://ai-project-new.herokuapp.com/)
+Исходный код проекта открыт и доступен по ссылке: [https://github.com/LetsPlayNow/AI-Project](https://github.com/LetsPlayNow/AI-Project)
+
 
 ### Humanoid autonomous navigation
+[![](https://habrastorage.org/files/922/ae4/9fe/922ae49fe1f24d779e5d5e116c24482a.png)](https://youtu.be/YXEq43HM_M8)
+
 Статус: в процессе
 Технологии / навыки: ROS, C++, Research
 Цель: разработать систему автономной навигации для антропоморфного робота.
@@ -132,13 +130,15 @@ https://github.com/LetsPlayNow/AI-Project
 и написав доп. модуль, удалось реализовать планирование на основе карты препятствий от rtabmap.
 Также периодически посматриваю на публикации других подобных проектов.
 
+
+
 ### Speech for robot
 Статус: в процессе
 Технологии: Python
 Цель: лингвистический ИИ для робота с речью и более-менее адекватными ответами.
 На данный момент удалось реализовать управление роботом при помощи речи.
 А также на данный момент он может поддерживать беседу с человеком.
-
+Ссылка: [https://habrahabr.ru/post/323570/](https://habrahabr.ru/post/323570/)
 
 ## Интересы
 В последнее время решил посмотреть на TensorFlow и поэкспериментировать с OpenCV 3 на Python 3.
@@ -161,16 +161,14 @@ https://github.com/LetsPlayNow/AI-Project
 Пытаюсь найти время, чтобы реализовать на Orange PI,
 который пылится в шкафу что-нибудь интересное (более - менее "образованный дом").
 
-
 ## Хобби
 Являюсь продвинутым велосипедистом - любителем.
 
-
 ## Конференции
-+ XX Региональная конференция молодых исследователей Волгоградской    области
++ XX Региональная конференция молодых исследователей Волгоградской области
   http://www.vstu.ru/news/2015/12/22/nagrazhdenie-pobeditelei.html
-+ Молодёжная  школа «Атмосфера:   встраиваемые системы и робототехника    – 2015»
++ Молодёжная  школа «Атмосфера:   встраиваемые системы и робототехника – 2015»
 http://roboschool.org/participants 
 + V Московский международный форум «Открытые инновации»
 https://forinnovations.ru/ 
-http://www.vstu.ru/news/2016/10/26/tri-dnya-v-skolkovo.html 
+http://www.vstu.ru/news/2016/10/26/tri-dnya-v-skolkovo.html
