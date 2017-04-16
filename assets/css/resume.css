@@ -1,0 +1,24 @@
+/*Add responsble size to coggle frame*/
+html
+{
+  overflow-x: hidden;
+}
+
+#experiences img
+{
+  max-height: 100%;
+  max-width: 100%;
+}
+
+/*Disable scroll bars*/
+.app .workspace-open::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+#cv-link-second
+{
+  text-align: center;
+}
+
+/*TODO we can scroll it so far. We must limit scrolling*/
