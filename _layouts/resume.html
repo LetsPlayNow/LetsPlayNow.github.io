@@ -4,7 +4,9 @@
   <link rel="stylesheet" href="/assets/css/cv.css">
   <body>
     <div class="container">
-      <div id="additional-links">
+      <div id="additional-links" class="row">
+        <a href="/"> Go back</a>
+        or
         <a href="{{ "/static_files/" | append: page.addr | append: ".pdf" }}" download="Aleksey Titov CV">Download the pdf</a>
       </div>
         {{ content }}
