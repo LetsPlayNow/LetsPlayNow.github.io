@@ -10,11 +10,6 @@ html
   max-width: 100%;
 }
 
-/*Disable scroll bars*/
-.app .workspace-open::-webkit-scrollbar {
-  display: none;
-  width: 0;
-}
 
 #cv-link-second
 {
