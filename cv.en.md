@@ -177,5 +177,7 @@ I am advanced amateur bicyclist.
 + [Молодёжная  школа «Атмосфера:   встраиваемые системы и робототехника – 2015»](http://roboschool.org/participants) 
 + [V Московский международный форум «Открытые инновации»](https://forinnovations.ru/) 
   + [Статья на vstu.ru](http://www.vstu.ru/news/2016/10/26/tri-dnya-v-skolkovo.html)
++ [Skolkovo Robotics 2017](http://sk.ru/foundation/events/april2017/robotics/)
+  + [Статья на vstu.ru](http://vstu.ru/university/press-center/news/nauka-i-innovatsii/shumnyy_uspekh_robota_iz_volggtu_v_skolkovo/)
   
 <!-- TODO maybe bigger font -->
