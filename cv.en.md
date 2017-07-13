@@ -17,7 +17,12 @@ Computer Science, Math, Robotics & Game Development
 **Site:** [https://letsplaynow.github.io/](https://letsplaynow.github.io/)
 
 ## Education
-I am on 4'th year undergraduate in [VSTU](http://www.vstu.ru/) in the direction "Informatics and Computer Science".
+In 2017 graduated from the [VSTU](http://www.vstu.ru/) with distinction  
+in the direction "Informatics and Computer Science".  
+
+Bachelor work is devoted to developing of the autonomous navigation system   
+for anthropomorphic robot based on data, obtained from RGB-D camera.  
+Additional information about this work available via [this link](https://goo.gl/bak7Do).
 
 ## Skills
 ### Machine Learning
@@ -27,6 +32,9 @@ Completed 2 courses of specialization "Machine Learning and Data Analisys" on Co
 
 Familiar with basic models, methods и features of machine learning "with teacher".    
 I work with Python & scikit-learn.
+
+Now I almost completed Deep Learning course on Udacity (ud730).
+Thanks to this course, I familiar at the basic level with neural networks concepts and able to build and train one.
 
 ### Computer Vision
 I Worked with the [Stereo Matching method](http://skillcounter.blogspot.ru/2015/08/point-cloud-from-pair-of-images-with.html).   
@@ -80,6 +88,9 @@ I have little experience of developing simple apps for Android with Java and for
   "Machine Leaning And Data Analysis на Coursera"
   + **chatterbot, gTTS, SpeechRecognition**  
   I used these modules to write linguistic AI for robot (check projects section)
+  + **tensorflow**  
+  Experimenting with neural networks.  
+  Most of my knowledge about NN I got from this online course [ud730](https://classroom.udacity.com/courses/ud730).
 
 + **Ruby 2.2.4**
   + **Rails 4.2.0**  
@@ -130,14 +141,17 @@ Code of this project is open and available by link: [https://github.com/LetsPlay
 ### Humanoid autonomous navigation
 [![](https://habrastorage.org/files/922/ae4/9fe/922ae49fe1f24d779e5d5e116c24482a.png)](https://youtu.be/YXEq43HM_M8)
 
-**Status:** in process  
+**Status:** almost finished  
 **Technologies / skills:** ROS, C++, Research   
 **Aim:** is to develop autonomous navigation system for anthropomorphic robot.     
 **Description:** as SLAM-algorithm realization was choosed rtabmap on ROS and Kinect as data source.   
 My own task is to process global trajectory for robot.   
 I fixed bag in module footstrap_planner, which allow to build trajectory in form of sequence of foot steps of robot.   
 And after I wrote additional module, I managed to run footstep planning based on obstacles map from rtabmap.  
-Also sometimes I looking for good articles related with my work.   
+Also I developed my own planner based on path-finding algorithm A*.  
+**Links:**  
+Additional information about this work availdable via this link: [https://goo.gl/bak7Do](https://goo.gl/bak7Do).  
+trajectory_planner, developed by me available in repository [LetsPlayNow/TrajectoryPlanner](https://github.com/LetsPlayNow/TrajectoryPlanner).   
 
 ### Speech for robot
 **Status:** in process  
@@ -149,10 +163,11 @@ Also robot can hold a simple conversation with someone.
 **Link:** [https://habrahabr.ru/post/323570/](https://habrahabr.ru/post/323570/)
 
 ## Interests
-Lately, I decided to try TensorFlow and make some experiments with OpenCV 3 on Python 3.  
-In my free time I solve olympic problems on CodeForces using Python or C++.  
-I like implement complex algorithms.  
-AI topic is close to me. I trying to find time to read book of Tim Jones "AI Application Programming".    
+Now I experiment with TensorFlow and get knowledge of discrete mathematics 
+with the help of online courses on the Stepik and Udacity. 
+In my free time I solve olympic problems on CodeForces using Python or sometimes C++.  
+I like implement complex algorithms. Especially if these algorithms related with field of weak AI.    
+Now I read book of Tim Jones "AI Application Programming".    
 
 Also I like big 'must-have' books because of volume of qualitative knowledge I get from them.  
 In my to-read list:
@@ -166,8 +181,7 @@ In my to-read list:
 Also, whenever possible, I watch lectures and courses on topics of interest to me.  
 For example, on Machine learning, Game Theory, Discrete Math and Linear Algebra.
 
-And I try to find some time to make with my Orange PI,  
-which is gathering dust in the closet, something interesting (first idea is "clever house").  
+Sometimes I play with my Orange PI and build small electronic circuits for fun.
 
 ## Hobbies
 I am advanced amateur bicyclist.
