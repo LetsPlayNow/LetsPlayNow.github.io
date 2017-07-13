@@ -150,8 +150,8 @@ I fixed bag in module footstrap_planner, which allow to build trajectory in form
 And after I wrote additional module, I managed to run footstep planning based on obstacles map from rtabmap.  
 Also I developed my own planner based on path-finding algorithm A*.  
 **Links:**  
-Additional information about this work availdable via this link: [https://goo.gl/bak7Do](https://goo.gl/bak7Do).  
-trajectory_planner, developed by me available in repository [LetsPlayNow/TrajectoryPlanner](https://github.com/LetsPlayNow/TrajectoryPlanner).   
+Additional information about this work availdable via this link: [https://goo.gl/bak7Do](https://goo.gl/bak7Do)  
+trajectory_planner, developed by me available in repository [LetsPlayNow/TrajectoryPlanner](https://github.com/LetsPlayNow/TrajectoryPlanner)   
 
 ### Speech for robot
 **Status:** in process  
@@ -163,10 +163,10 @@ Also robot can hold a simple conversation with someone.
 **Link:** [https://habrahabr.ru/post/323570/](https://habrahabr.ru/post/323570/)
 
 ## Interests
-Now I experiment with TensorFlow and get knowledge of discrete mathematics 
-with the help of online courses on the Stepik and Udacity. 
+Now I experiment with TensorFlow and get knowledge of discrete mathematics  
+with the help of online courses on the Stepik and Udacity.  
 In my free time I solve olympic problems on CodeForces using Python or sometimes C++.  
-I like implement complex algorithms. Especially if these algorithms related with field of weak AI.    
+I like implement complex algorithms. Especially if these algorithms lies in the field of weak AI.    
 Now I read book of Tim Jones "AI Application Programming".    
 
 Also I like big 'must-have' books because of volume of qualitative knowledge I get from them.  
